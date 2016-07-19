@@ -176,9 +176,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/etc/sensors/sensor_def_common.conf:system/etc/sensors/sensor_def_common.conf \
     vendor/lge/g3-common/proprietary/lib/libcir_driver.so:system/lib/libcir_driver.so \
     vendor/lge/g3-common/proprietary/lib/hw/consumerir.msm8974.so:system/lib/hw/consumerir.msm8974.so \
-    vendor/lge/g3-common/proprietary/bin/thermal-engine:system/bin/thermal-engine \
-    vendor/lge/g3-common/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
-    vendor/lge/g3-common/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
     vendor/lge/g3-common/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lge/g3-common/proprietary/vendor/lib/libTimeService.so:system/vendor/lib/libTimeService.so \
     vendor/lge/g3-common/proprietary/vendor/firmware/wcnss.b00:system/vendor/firmware/wcnss.b00 \

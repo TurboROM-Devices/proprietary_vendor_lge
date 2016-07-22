@@ -163,7 +163,6 @@ PRODUCT_COPY_FILES += \
     vendor/lge/g3-common/proprietary/etc/firmware/a330_pm4.fw:system/etc/firmware/a330_pm4.fw \
     vendor/lge/g3-common/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/lge/g3-common/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
-    vendor/lge/g3-common/proprietary/bin/mpdecision:system/bin/mpdecision \
     vendor/lge/g3-common/proprietary/vendor/lib/libqti-perfd-client.so:system/vendor/lib/libqti-perfd-client.so \
     vendor/lge/g3-common/proprietary/bin/irsc_util:system/bin/irsc_util \
     vendor/lge/g3-common/proprietary/bin/radish:system/bin/radish \
